@@ -1,0 +1,7 @@
+name: Duels
+version: 1.0
+main: Duels
+author: Rasturize
+commands:
+  arena: Main arena command.
+  duel: Main duel command.
